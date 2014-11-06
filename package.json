@@ -1,0 +1,16 @@
+{
+  "name": "helloBackbone",
+  "version": "0.0.0",
+  "description": "",
+  "scripts": {},
+  "dependencies": {
+    "underscore": "~1.7.0",
+    "backbone": "~1.1.2",
+    "jquery": "~2.1.1",
+    "backbone.localstorage": "~1.1.14"
+  },
+  "devDependencies": {
+    "gulp": "~3.8.10",
+    "browserify": "~6.2.0"
+  }
+}
